@@ -40,6 +40,8 @@ cacheSolve <- function(x, ...) {
   mtx
 }
 
+
+#Validating the output.
 x
 mymatrix <-cacheSolve(makeCacheMatrix(x))
 mymatrix
